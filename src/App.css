@@ -34,20 +34,3 @@ button {
     margin-bottom: 30px;
 }
 
-table {
-    width: 100%
-}
-
-.tabledata {
-    background-color: lightblue;
-    margin: 20px;
-}
-/*tr {
-    display:flex;
-    
-    justify-content: space-around
-}*/
-.NoUser {
-    background-color: lightblue;
-    margin: auto;
-}
