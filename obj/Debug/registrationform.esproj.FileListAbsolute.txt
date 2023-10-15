@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\RegistrationForm\RegistrationForm\obj\Debug\registrationform.esproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\RegistrationForm\RegistrationForm\obj\Debug\registrationform.esproj.CoreCompileInputs.cache
