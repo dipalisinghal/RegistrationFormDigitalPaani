@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RegistrationFormDigitalPaani/static/css/main.1c169a40.css",
-    "main.js": "/RegistrationFormDigitalPaani/static/js/main.7e0c7230.js",
+    "main.css": "/RegistrationFormDigitalPaani/static/css/main.f868ad0e.css",
+    "main.js": "/RegistrationFormDigitalPaani/static/js/main.89daa380.js",
     "static/js/787.d95b18bc.chunk.js": "/RegistrationFormDigitalPaani/static/js/787.d95b18bc.chunk.js",
     "static/media/logo.svg": "/RegistrationFormDigitalPaani/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/RegistrationFormDigitalPaani/index.html",
-    "main.1c169a40.css.map": "/RegistrationFormDigitalPaani/static/css/main.1c169a40.css.map",
-    "main.7e0c7230.js.map": "/RegistrationFormDigitalPaani/static/js/main.7e0c7230.js.map",
+    "main.f868ad0e.css.map": "/RegistrationFormDigitalPaani/static/css/main.f868ad0e.css.map",
+    "main.89daa380.js.map": "/RegistrationFormDigitalPaani/static/js/main.89daa380.js.map",
     "787.d95b18bc.chunk.js.map": "/RegistrationFormDigitalPaani/static/js/787.d95b18bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c169a40.css",
-    "static/js/main.7e0c7230.js"
+    "static/css/main.f868ad0e.css",
+    "static/js/main.89daa380.js"
   ]
 }
