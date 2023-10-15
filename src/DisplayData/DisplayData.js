@@ -6,7 +6,7 @@ export default function DisplayData({ allEntry }) {
 
     return (
         <>
-            <h1>hey</h1>
+            <h4>Registered Users:</h4>
             {allEntry.length === 0 ?
                 (<h4 className="NoUser">No Registered User</h4>) :
                 (
